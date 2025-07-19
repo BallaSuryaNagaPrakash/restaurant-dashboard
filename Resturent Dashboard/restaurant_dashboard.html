@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Restaurant Sales Dashboard</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      background: linear-gradient(to right, #232526, #414345);
+      font-family: 'Segoe UI', sans-serif;
+      color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      text-align: center;
+      padding: 1rem;
+      background-color: #1f1f1f;
+      font-size: 1.5rem;
+      color: #00ffd5;
+    }
+    .dashboard {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      gap: 20px;
+      padding: 2rem;
+    }
+    .card {
+      background-color: #2c3e50;
+      border-radius: 12px;
+      padding: 1rem;
+      box-shadow: 0 4px 10px rgba(0, 255, 213, 0.2);
+    }
+    canvas {
+      width: 100% !important;
+      height: auto !important;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  🍽️ Restaurant Sales Dashboard – Last 6 Months 📈
+</header>
+
+<div class="dashboard">
+  <div class="card">
+    <h3>Total Sales by Location</h3>
+    <canvas id="locationChart"></canvas>
+  </div>
+
+  <div class="card">
+    <h3>Orders by Hour</h3>
+    <canvas id="hourChart"></canvas>
+  </div>
+
+  <div class="card">
+    <h3>Monthly Sales Trend</h3>
+    <canvas id="monthChart"></canvas>
+  </div>
+
+  <div class="card">
+    <h3>Top-Selling Food Items</h3>
+    <canvas id="foodChart"></canvas>
+  </div>
+
+  <div class="card">
+    <h3>Orders by Day of the Week</h3>
+    <canvas id="dayChart"></canvas>
+  </div>
+</div>
+
+<script>
+  const locationChart = new Chart(document.getElementById('locationChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Hyderabad', 'Mumbai', 'Bangalore', 'Delhi', 'Chennai'],
+      datasets: [{
+        label: 'Total Sales (₹)',
+        data: [105000, 98000, 87000, 75000, 69000],
+        backgroundColor: '#00ffd5'
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } }
+    }
+  });
+
+  const hourChart = new Chart(document.getElementById('hourChart'), {
+    type: 'line',
+    data: {
+      labels: [...Array(24).keys()].map(h => `${h}:00`),
+      datasets: [{
+        label: 'Orders',
+        data: [10, 5, 3, 2, 1, 4, 7, 10, 12, 18, 20, 22, 19, 21, 25, 27, 29, 30, 28, 20, 15, 10, 6, 4],
+        borderColor: '#f39c12',
+        backgroundColor: '#f39c1280',
+        fill: true
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } }
+    }
+  });
+
+  const monthChart = new Chart(document.getElementById('monthChart'), {
+    type: 'bar',
+    data: {
+      labels: ['March', 'April', 'May', 'June', 'July', 'August'],
+      datasets: [{
+        label: 'Sales (₹)',
+        data: [52000, 60000, 75000, 90000, 85000, 97000],
+        backgroundColor: '#8e44ad'
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } }
+    }
+  });
+
+  const foodChart = new Chart(document.getElementById('foodChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Biryani', 'Pizza', 'Dosa', 'Burger', 'Paneer Masala', 'Pasta', 'Fried Rice'],
+      datasets: [{
+        label: 'Quantity Sold',
+        data: [210, 180, 165, 140, 130, 120, 100],
+        backgroundColor: '#e74c3c'
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      plugins: { legend: { display: false } }
+    }
+  });
+
+  const dayChart = new Chart(document.getElementById('dayChart'), {
+    type: 'bar',
+    data: {
+      labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+      datasets: [{
+        label: 'Orders',
+        data: [50, 60, 65, 80, 95, 120, 100],
+        backgroundColor: '#1abc9c'
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: { legend: { display: false } }
+    }
+  });
+</script>
+
+</body>
+</html>

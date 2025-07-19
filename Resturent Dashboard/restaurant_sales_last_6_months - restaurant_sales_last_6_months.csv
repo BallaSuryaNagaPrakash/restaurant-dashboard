@@ -1,0 +1,501 @@
+Order ID,Order Date,Time,Food Item,Quantity,Price,Location,Payment Method,Total Price column,Hours,Months ,Days 
+Order ID,2025-02-06,4:44 PM,Pasta,4,88.03,Hyderabad,Cash,352.12,16,February,Saturday
+Order ID,2025-03-01,7:12 PM,Chicken Biryani,5,88.03,Chennai,Wallet,440.15,19,May,Thursday
+Order ID,2025-05-08,1:11 PM,Fried Rice,4,88.03,Mumbai,Cash,352.12,13,March,Tuesday
+Order ID,2025-03-11,3:17 PM,Pizza,3,88.03,Kolkata,UPI,264.09,15,January,Wednesday
+Order ID,2025-01-22,6:08 PM,Paneer Butter Masala,3,88.03,Delhi,Card,264.09,18,May,Thursday
+Order ID,2025-05-29,1:10 PM,Masala Dosa,2,88.03,Chennai,Cash,176.06,13,July,Thursday
+Order ID,2025-07-03,9:17 PM,Pizza,5,88.03,Mumbai,Cash,440.15,21,June,Sunday
+Order ID,2025-06-01,6:50 PM,Pizza,4,88.03,Delhi,Cash,352.12,18,May,Saturday
+Order ID,2025-05-10,7:28 PM,Paneer Butter Masala,5,88.03,Mumbai,Wallet,440.15,19,January,Friday
+Order ID,2025-01-31,12:56 PM,Pizza,1,88.03,Mumbai,UPI,88.03,12,May,Saturday
+Order ID,2025-05-31,1:33 PM,Chicken Biryani,4,88.03,Hyderabad,UPI,352.12,13,May,Saturday
+Order ID,2025-05-17,1:03 PM,Spring Rolls,4,88.03,Mumbai,UPI,352.12,13,January,Thursday
+Order ID,2025-01-30,9:33 PM,Paneer Butter Masala,3,88.03,Kolkata,UPI,264.09,21,May,Thursday
+Order ID,2025-05-15,6:48 PM,Pasta,1,88.03,Mumbai,Cash,88.03,18,February,Sunday
+Order ID,2025-02-23,4:44 PM,Chicken Biryani,1,88.03,Bangalore,Wallet,88.03,16,June,Wednesday
+Order ID,2025-06-18,12:12 PM,Fried Rice,5,88.03,Chennai,Cash,440.15,12,February,Sunday
+Order ID,2025-02-16,9:52 PM,Fried Rice,3,88.03,Kolkata,Card,264.09,21,February,Monday
+Order ID,2025-02-24,2:16 PM,Chicken Biryani,5,88.03,Chennai,Wallet,440.15,14,February,Friday
+Order ID,2025-02-28,11:45 AM,Pizza,2,88.03,Delhi,Wallet,176.06,11,March,Thursday
+Order ID,2025-03-20,11:59 AM,Spring Rolls,2,88.03,Hyderabad,Card,176.06,11,April,Wednesday
+Order ID,2025-04-02,7:59 PM,Chicken Biryani,2,88.03,Mumbai,Wallet,176.06,19,May,Wednesday
+Order ID,2025-05-28,8:31 PM,Masala Dosa,4,88.03,Delhi,Wallet,352.12,20,February,Thursday
+Order ID,2025-02-13,10:51 AM,Paneer Butter Masala,4,88.03,Chennai,Card,352.12,10,February,Saturday
+Order ID,2025-02-22,11:16 AM,Fried Rice,1,88.03,Kolkata,UPI,88.03,11,April,Thursday
+Order ID,2025-04-24,3:28 PM,Chicken Biryani,5,88.03,Mumbai,UPI,440.15,15,April,Friday
+Order ID,2025-04-11,2:10 PM,Chicken Biryani,2,88.03,Mumbai,Wallet,176.06,14,February,Monday
+Order ID,2025-02-17,9:55 PM,Masala Dosa,5,88.03,Kolkata,UPI,440.15,21,April,Thursday
+Order ID,2025-04-24,7:29 PM,Veg Burger,1,88.03,Hyderabad,Card,88.03,19,January,Tuesday
+Order ID,2025-01-21,1:30 PM,Fried Rice,5,88.03,Hyderabad,Wallet,440.15,13,January,Saturday
+Order ID,2025-01-25,5:09 PM,Chicken Biryani,3,88.03,Chennai,UPI,264.09,17,June,Sunday
+Order ID,2025-06-29,3:48 PM,Fried Rice,5,88.03,Delhi,Wallet,440.15,15,June,Wednesday
+Order ID,2025-06-18,4:39 PM,Pasta,3,88.03,Hyderabad,UPI,264.09,16,January,Monday
+Order ID,2025-01-27,4:51 PM,Veg Burger,4,88.03,Mumbai,Cash,352.12,16,July,Tuesday
+Order ID,2025-07-08,4:11 PM,Spring Rolls,5,88.03,Delhi,Wallet,440.15,16,June,Saturday
+Order ID,2025-06-21,2:19 PM,Pizza,5,88.03,Kolkata,Card,440.15,14,March,Thursday
+Order ID,2025-03-13,2:17 PM,Spring Rolls,1,88.03,Bangalore,Cash,88.03,14,January,Wednesday
+Order ID,2025-01-22,12:18 PM,Chicken Biryani,2,88.03,Mumbai,UPI,176.06,12,July,Wednesday
+Order ID,2025-07-09,10:02 AM,Paneer Butter Masala,1,88.03,Chennai,Wallet,88.03,10,July,Sunday
+Order ID,2025-07-13,1:21 PM,Masala Dosa,2,88.03,Chennai,Card,176.06,13,June,Monday
+Order ID,2025-06-16,1:10 PM,Pizza,4,88.03,Hyderabad,Wallet,352.12,13,March,Friday
+Order ID,2025-03-21,7:08 PM,Paneer Butter Masala,5,88.03,Hyderabad,Card,440.15,19,January,Thursday
+Order ID,2025-01-30,3:13 PM,Veg Burger,3,88.03,Hyderabad,Wallet,264.09,15,March,Thursday
+Order ID,2025-03-06,10:05 AM,Veg Burger,1,88.03,Delhi,UPI,88.03,10,April,Sunday
+Order ID,2025-04-06,9:36 PM,Masala Dosa,1,88.03,Bangalore,Cash,88.03,21,May,Saturday
+Order ID,2025-05-10,7:27 PM,Pasta,3,88.03,Chennai,Wallet,264.09,19,April,Wednesday
+Order ID,2025-04-02,2:50 PM,Pasta,4,88.03,Mumbai,Cash,352.12,14,April,Friday
+Order ID,2025-04-11,6:15 PM,Chicken Biryani,1,88.03,Hyderabad,Card,88.03,18,June,Thursday
+Order ID,2025-06-12,12:33 PM,Chicken Biryani,1,88.03,Bangalore,Wallet,88.03,12,July,Sunday
+Order ID,2025-07-13,8:35 PM,Paneer Butter Masala,5,88.03,Mumbai,Card,440.15,20,January,Tuesday
+Order ID,2025-01-28,12:31 PM,Pasta,5,88.03,Delhi,Card,440.15,12,March,Sunday
+Order ID,2025-03-16,2:30 PM,Pizza,5,88.03,Delhi,Card,440.15,14,May,Wednesday
+Order ID,2025-05-21,1:05 PM,Masala Dosa,1,88.03,Kolkata,Cash,88.03,13,July,Saturday
+Order ID,2025-07-12,4:05 PM,Spring Rolls,5,88.03,Chennai,UPI,440.15,16,June,Saturday
+Order ID,2025-06-07,2:23 PM,Pasta,2,88.03,Hyderabad,Cash,176.06,14,March,Wednesday
+Order ID,2025-03-05,12:05 PM,Paneer Butter Masala,2,88.03,Bangalore,Card,176.06,12,January,Wednesday
+Order ID,2025-01-29,12:11 PM,Pizza,4,88.03,Bangalore,Wallet,352.12,12,May,Thursday
+Order ID,2025-05-15,9:42 PM,Pasta,5,88.03,Chennai,Card,440.15,21,July,Monday
+Order ID,2025-07-14,9:16 PM,Chicken Biryani,5,88.03,Kolkata,Cash,440.15,21,May,Sunday
+Order ID,2025-05-04,11:41 AM,Spring Rolls,1,88.03,Bangalore,UPI,88.03,11,April,Saturday
+Order ID,2025-04-05,5:18 PM,Chicken Biryani,2,88.03,Delhi,Card,176.06,17,April,Thursday
+Order ID,2025-04-17,1:43 PM,Pasta,1,88.03,Mumbai,Cash,88.03,13,April,Monday
+Order ID,2025-04-21,12:15 PM,Masala Dosa,1,88.03,Kolkata,Card,88.03,12,January,Sunday
+Order ID,2025-01-26,5:24 PM,Pizza,3,88.03,Kolkata,Card,264.09,17,April,Wednesday
+Order ID,2025-04-16,7:50 PM,Fried Rice,1,88.03,Kolkata,UPI,88.03,19,June,Tuesday
+Order ID,2025-06-10,10:00 PM,Chicken Biryani,5,88.03,Mumbai,UPI,440.15,22,June,Thursday
+Order ID,2025-06-26,4:21 PM,Paneer Butter Masala,3,88.03,Hyderabad,Card,264.09,16,June,Sunday
+Order ID,2025-06-15,7:56 PM,Masala Dosa,3,88.03,Bangalore,UPI,264.09,19,February,Sunday
+Order ID,2025-02-09,6:34 PM,Pizza,5,88.03,Kolkata,Card,440.15,18,June,Sunday
+Order ID,2025-06-01,11:20 AM,Spring Rolls,2,88.03,Delhi,Cash,176.06,11,June,Friday
+Order ID,2025-06-27,10:38 AM,Masala Dosa,1,88.03,Hyderabad,Cash,88.03,10,April,Monday
+Order ID,2025-04-14,1:37 PM,Masala Dosa,1,88.03,Kolkata,UPI,88.03,13,April,Tuesday
+Order ID,2025-04-15,11:27 AM,Spring Rolls,5,88.03,Bangalore,UPI,440.15,11,May,Saturday
+Order ID,2025-05-24,11:38 AM,Paneer Butter Masala,2,88.03,Delhi,Wallet,176.06,11,May,Thursday
+Order ID,2025-05-15,10:34 AM,Pizza,4,88.03,Hyderabad,Cash,352.12,10,July,Wednesday
+Order ID,2025-07-16,5:32 PM,Pasta,3,88.03,Bangalore,UPI,264.09,17,March,Sunday
+Order ID,2025-03-02,7:31 PM,Spring Rolls,5,88.03,Chennai,Card,440.15,19,March,Thursday
+Order ID,2025-03-06,7:40 PM,Pasta,3,88.03,Hyderabad,Card,264.09,19,June,Monday
+Order ID,2025-06-02,12:34 PM,Pizza,3,88.03,Mumbai,Wallet,264.09,12,April,Wednesday
+Order ID,2025-04-02,4:31 PM,Masala Dosa,5,88.03,Hyderabad,UPI,440.15,16,March,Thursday
+Order ID,2025-03-20,7:36 PM,Veg Burger,2,88.03,Delhi,Card,176.06,19,June,Sunday
+Order ID,2025-06-15,11:01 AM,Masala Dosa,2,88.03,Hyderabad,UPI,176.06,11,May,Saturday
+Order ID,2025-05-10,2:12 PM,Spring Rolls,5,88.03,Kolkata,UPI,440.15,14,June,Monday
+Order ID,2025-06-16,6:12 PM,Veg Burger,4,88.03,Kolkata,Cash,352.12,18,January,Sunday
+Order ID,2025-01-19,2:59 PM,Masala Dosa,5,88.03,Hyderabad,Cash,440.15,14,May,Wednesday
+Order ID,2025-05-21,9:15 PM,Spring Rolls,1,88.03,Delhi,Card,88.03,21,May,Tuesday
+Order ID,2025-05-06,12:23 PM,Fried Rice,4,88.03,Kolkata,Card,352.12,12,February,Saturday
+Order ID,2025-02-08,2:16 PM,Masala Dosa,2,88.03,Hyderabad,Card,176.06,14,June,Saturday
+Order ID,2025-06-07,3:03 PM,Paneer Butter Masala,1,88.03,Chennai,Wallet,88.03,15,January,Saturday
+Order ID,2025-01-25,2:12 PM,Spring Rolls,3,88.03,Chennai,Cash,264.09,14,March,Tuesday
+Order ID,2025-03-11,10:58 AM,Pizza,3,88.03,Delhi,Wallet,264.09,10,July,Friday
+Order ID,2025-07-18,9:33 PM,Pasta,3,88.03,Hyderabad,Cash,264.09,21,March,Wednesday
+Order ID,2025-03-19,5:27 PM,Paneer Butter Masala,1,88.03,Delhi,Cash,88.03,17,July,Monday
+Order ID,2025-07-07,5:47 PM,Masala Dosa,1,88.03,Chennai,Wallet,88.03,17,June,Sunday
+Order ID,2025-06-22,8:40 PM,Paneer Butter Masala,4,88.03,Delhi,UPI,352.12,20,June,Thursday
+Order ID,2025-06-26,12:27 PM,Paneer Butter Masala,3,88.03,Delhi,UPI,264.09,12,February,Sunday
+Order ID,2025-02-23,11:04 AM,Paneer Butter Masala,5,88.03,Kolkata,Card,440.15,11,January,Friday
+Order ID,2025-01-24,10:06 AM,Pizza,2,88.03,Delhi,UPI,176.06,10,May,Thursday
+Order ID,2025-05-01,10:16 AM,Fried Rice,3,88.03,Bangalore,Card,264.09,10,April,Tuesday
+Order ID,2025-04-15,9:48 PM,Pasta,3,88.03,Kolkata,UPI,264.09,21,April,Saturday
+Order ID,2025-04-05,8:50 PM,Fried Rice,3,88.03,Bangalore,Cash,264.09,20,July,Sunday
+Order ID,2025-07-13,8:29 PM,Pasta,4,88.03,Hyderabad,Cash,352.12,20,June,Thursday
+Order ID,2025-06-12,9:01 PM,Fried Rice,2,88.03,Mumbai,Cash,176.06,21,April,Tuesday
+Order ID,2025-04-22,2:02 PM,Chicken Biryani,4,88.03,Bangalore,Wallet,352.12,14,April,Tuesday
+Order ID,2025-04-15,10:38 AM,Fried Rice,5,88.03,Kolkata,Cash,440.15,10,May,Friday
+Order ID,2025-05-02,4:00 PM,Spring Rolls,4,88.03,Chennai,UPI,352.12,16,May,Wednesday
+Order ID,2025-05-21,2:44 PM,Spring Rolls,1,88.03,Kolkata,Card,88.03,14,June,Friday
+Order ID,2025-06-06,4:26 PM,Masala Dosa,2,88.03,Hyderabad,Cash,176.06,16,June,Wednesday
+Order ID,2025-06-18,10:34 AM,Fried Rice,1,88.03,Delhi,Wallet,88.03,10,January,Sunday
+Order ID,2025-01-19,12:25 PM,Masala Dosa,3,88.03,Bangalore,UPI,264.09,12,January,Thursday
+Order ID,2025-01-23,2:59 PM,Pizza,1,88.03,Mumbai,Cash,88.03,14,July,Friday
+Order ID,2025-07-04,2:15 PM,Chicken Biryani,5,88.03,Kolkata,Card,440.15,14,March,Saturday
+Order ID,2025-03-15,5:48 PM,Spring Rolls,2,88.03,Mumbai,Cash,176.06,17,March,Saturday
+Order ID,2025-03-01,1:24 PM,Fried Rice,3,88.03,Kolkata,UPI,264.09,13,February,Tuesday
+Order ID,2025-02-18,12:48 PM,Veg Burger,1,88.03,Kolkata,UPI,88.03,12,May,Sunday
+Order ID,2025-05-25,5:21 PM,Fried Rice,5,88.03,Kolkata,Cash,440.15,17,April,Sunday
+Order ID,2025-04-06,8:16 PM,Masala Dosa,2,88.03,Mumbai,Card,176.06,20,March,Thursday
+Order ID,2025-03-20,3:46 PM,Paneer Butter Masala,4,88.03,Bangalore,Cash,352.12,15,June,Thursday
+Order ID,2025-06-05,11:44 AM,Paneer Butter Masala,5,88.03,Delhi,Card,440.15,11,February,Monday
+Order ID,2025-02-10,9:52 PM,Paneer Butter Masala,3,88.03,Bangalore,Cash,264.09,21,June,Sunday
+Order ID,2025-06-08,12:12 PM,Paneer Butter Masala,3,88.03,Delhi,Wallet,264.09,12,May,Saturday
+Order ID,2025-05-17,1:06 PM,Masala Dosa,3,88.03,Chennai,Wallet,264.09,13,March,Tuesday
+Order ID,2025-03-25,6:13 PM,Fried Rice,1,88.03,Bangalore,Card,88.03,18,March,Friday
+Order ID,2025-03-14,6:57 PM,Masala Dosa,2,88.03,Kolkata,Cash,176.06,18,May,Monday
+Order ID,2025-05-12,5:55 PM,Veg Burger,2,88.03,Chennai,Card,176.06,17,May,Tuesday
+Order ID,2025-05-13,12:23 PM,Spring Rolls,2,88.03,Delhi,Cash,176.06,12,May,Thursday
+Order ID,2025-05-15,11:37 AM,Veg Burger,5,88.03,Mumbai,Card,440.15,11,March,Friday
+Order ID,2025-03-14,10:27 AM,Pasta,1,88.03,Mumbai,UPI,88.03,10,July,Sunday
+Order ID,2025-07-13,12:28 PM,Pasta,1,88.03,Hyderabad,Card,88.03,12,February,Sunday
+Order ID,2025-02-09,11:09 AM,Pasta,2,88.03,Delhi,UPI,176.06,11,May,Friday
+Order ID,2025-05-23,7:11 PM,Fried Rice,2,88.03,Delhi,Wallet,176.06,19,January,Tuesday
+Order ID,2025-01-21,3:42 PM,Fried Rice,5,88.03,Mumbai,Card,440.15,15,June,Monday
+Order ID,2025-06-30,10:23 AM,Veg Burger,5,88.03,Chennai,Wallet,440.15,10,July,Thursday
+Order ID,2025-07-03,11:29 AM,Chicken Biryani,4,88.03,Delhi,Cash,352.12,11,February,Sunday
+Order ID,2025-02-09,4:00 PM,Spring Rolls,5,88.03,Kolkata,Wallet,440.15,16,May,Tuesday
+Order ID,2025-05-27,10:17 AM,Veg Burger,4,88.03,Bangalore,Cash,352.12,10,May,Wednesday
+Order ID,2025-05-14,11:25 AM,Paneer Butter Masala,5,88.03,Chennai,Cash,440.15,11,March,Monday
+Order ID,2025-03-24,12:30 PM,Pasta,4,88.03,Mumbai,Wallet,352.12,12,April,Wednesday
+Order ID,2025-04-23,1:22 PM,Veg Burger,4,88.03,Delhi,Cash,352.12,13,May,Saturday
+Order ID,2025-05-24,11:33 AM,Masala Dosa,1,88.03,Kolkata,Card,88.03,11,March,Sunday
+Order ID,2025-03-16,3:14 PM,Masala Dosa,3,88.03,Mumbai,Card,264.09,15,May,Friday
+Order ID,2025-05-30,8:06 PM,Fried Rice,4,88.03,Mumbai,Card,352.12,20,July,Monday
+Order ID,2025-07-14,7:16 PM,Spring Rolls,5,88.03,Kolkata,UPI,440.15,19,February,Monday
+Order ID,2025-02-24,11:49 AM,Chicken Biryani,5,88.03,Bangalore,Cash,440.15,11,March,Wednesday
+Order ID,2025-03-19,12:37 PM,Fried Rice,3,88.03,Kolkata,Wallet,264.09,12,June,Sunday
+Order ID,2025-06-29,7:18 PM,Veg Burger,3,88.03,Bangalore,Card,264.09,19,July,Saturday
+Order ID,2025-07-12,10:09 AM,Paneer Butter Masala,2,88.03,Kolkata,Wallet,176.06,10,June,Tuesday
+Order ID,2025-06-10,1:28 PM,Paneer Butter Masala,5,88.03,Bangalore,Cash,440.15,13,January,Friday
+Order ID,2025-01-24,7:57 PM,Fried Rice,4,88.03,Chennai,Wallet,352.12,19,January,Thursday
+Order ID,2025-01-23,10:28 AM,Masala Dosa,1,88.03,Kolkata,UPI,88.03,10,March,Sunday
+Order ID,2025-03-23,9:56 PM,Masala Dosa,5,88.03,Delhi,Wallet,440.15,21,March,Monday
+Order ID,2025-03-10,11:18 AM,Spring Rolls,4,88.03,Bangalore,Wallet,352.12,11,February,Tuesday
+Order ID,2025-02-04,9:05 PM,Spring Rolls,1,88.03,Kolkata,Cash,88.03,21,June,Saturday
+Order ID,2025-06-07,8:59 PM,Fried Rice,5,88.03,Mumbai,Cash,440.15,20,April,Tuesday
+Order ID,2025-04-29,3:36 PM,Veg Burger,5,88.03,Mumbai,UPI,440.15,15,May,Friday
+Order ID,2025-05-30,1:47 PM,Chicken Biryani,5,88.03,Bangalore,Cash,440.15,13,May,Friday
+Order ID,2025-05-16,8:26 PM,Veg Burger,4,88.03,Bangalore,Wallet,352.12,20,July,Tuesday
+Order ID,2025-07-15,2:51 PM,Masala Dosa,2,88.03,Kolkata,UPI,176.06,14,May,Tuesday
+Order ID,2025-05-27,12:42 PM,Veg Burger,4,88.03,Kolkata,Cash,352.12,12,May,Friday
+Order ID,2025-05-09,2:03 PM,Pasta,3,88.03,Mumbai,Cash,264.09,14,March,Sunday
+Order ID,2025-03-02,9:07 PM,Spring Rolls,3,88.03,Bangalore,UPI,264.09,21,May,Monday
+Order ID,2025-05-05,2:53 PM,Pizza,5,88.03,Bangalore,Cash,440.15,14,March,Monday
+Order ID,2025-03-10,7:05 PM,Spring Rolls,1,88.03,Chennai,UPI,88.03,19,May,Sunday
+Order ID,2025-05-04,9:33 PM,Veg Burger,1,88.03,Hyderabad,Wallet,88.03,21,February,Saturday
+Order ID,2025-02-08,1:36 PM,Pizza,2,88.03,Bangalore,Cash,176.06,13,June,Tuesday
+Order ID,2025-06-17,5:14 PM,Paneer Butter Masala,5,88.03,Bangalore,Wallet,440.15,17,February,Monday
+Order ID,2025-02-24,11:10 AM,Paneer Butter Masala,3,88.03,Delhi,Card,264.09,11,June,Monday
+Order ID,2025-06-30,8:28 PM,Spring Rolls,4,88.03,Delhi,Wallet,352.12,20,May,Thursday
+Order ID,2025-05-08,2:02 PM,Veg Burger,4,88.03,Chennai,Card,352.12,14,February,Sunday
+Order ID,2025-02-16,4:19 PM,Pasta,2,88.03,Mumbai,Card,176.06,16,July,Thursday
+Order ID,2025-07-10,7:53 PM,Pizza,1,88.03,Hyderabad,Wallet,88.03,19,February,Monday
+Order ID,2025-02-10,3:56 PM,Chicken Biryani,1,88.03,Delhi,Cash,88.03,15,July,Friday
+Order ID,2025-07-18,9:58 PM,Pizza,4,88.03,Delhi,UPI,352.12,21,May,Sunday
+Order ID,2025-05-11,11:33 AM,Masala Dosa,3,88.03,Kolkata,Cash,264.09,11,March,Thursday
+Order ID,2025-03-13,9:23 PM,Pizza,5,88.03,Mumbai,Card,440.15,21,February,Wednesday
+Order ID,2025-02-05,5:44 PM,Veg Burger,4,88.03,Kolkata,Wallet,352.12,17,May,Monday
+Order ID,2025-05-05,2:47 PM,Masala Dosa,5,88.03,Delhi,Card,440.15,14,June,Monday
+Order ID,2025-06-02,6:39 PM,Paneer Butter Masala,4,88.03,Hyderabad,Card,352.12,18,January,Monday
+Order ID,2025-01-27,7:26 PM,Chicken Biryani,1,88.03,Bangalore,Wallet,88.03,19,February,Saturday
+Order ID,2025-02-08,5:07 PM,Pizza,2,88.03,Hyderabad,Wallet,176.06,17,March,Monday
+Order ID,2025-03-24,5:57 PM,Fried Rice,3,88.03,Kolkata,UPI,264.09,17,July,Friday
+Order ID,2025-07-11,3:53 PM,Pasta,3,88.03,Mumbai,Wallet,264.09,15,January,Tuesday
+Order ID,2025-01-21,10:15 AM,Chicken Biryani,3,88.03,Chennai,Cash,264.09,10,April,Thursday
+Order ID,2025-04-10,7:57 PM,Fried Rice,4,88.03,Delhi,Wallet,352.12,19,June,Wednesday
+Order ID,2025-06-18,2:40 PM,Masala Dosa,1,88.03,Bangalore,UPI,88.03,14,February,Sunday
+Order ID,2025-02-23,1:18 PM,Pizza,1,88.03,Bangalore,Wallet,88.03,13,June,Thursday
+Order ID,2025-06-05,7:49 PM,Spring Rolls,5,88.03,Kolkata,Card,440.15,19,May,Sunday
+Order ID,2025-05-25,2:17 PM,Pizza,1,88.03,Kolkata,Card,88.03,14,March,Friday
+Order ID,2025-03-07,2:20 PM,Fried Rice,2,88.03,Kolkata,UPI,176.06,14,March,Saturday
+Order ID,2025-03-08,9:01 PM,Pizza,3,88.03,Hyderabad,Cash,264.09,21,June,Sunday
+Order ID,2025-06-29,5:18 PM,Veg Burger,4,88.03,Hyderabad,Wallet,352.12,17,March,Monday
+Order ID,2025-03-17,8:40 PM,Paneer Butter Masala,5,88.03,Chennai,Cash,440.15,20,July,Wednesday
+Order ID,2025-07-16,5:16 PM,Spring Rolls,2,88.03,Bangalore,Cash,176.06,17,May,Saturday
+Order ID,2025-05-03,3:48 PM,Pasta,3,88.03,Hyderabad,Cash,264.09,15,May,Saturday
+Order ID,2025-05-17,1:14 PM,Paneer Butter Masala,4,88.03,Hyderabad,Cash,352.12,13,February,Monday
+Order ID,2025-02-17,6:51 PM,Paneer Butter Masala,3,88.03,Hyderabad,Cash,264.09,18,April,Tuesday
+Order ID,2025-04-15,7:11 PM,Fried Rice,2,88.03,Delhi,Cash,176.06,19,March,Wednesday
+Order ID,2025-03-12,8:14 PM,Spring Rolls,2,88.03,Bangalore,Wallet,176.06,20,March,Wednesday
+Order ID,2025-03-12,2:41 PM,Fried Rice,5,88.03,Chennai,Wallet,440.15,14,June,Wednesday
+Order ID,2025-06-11,5:05 PM,Chicken Biryani,3,88.03,Delhi,Card,264.09,17,April,Sunday
+Order ID,2025-04-13,2:31 PM,Paneer Butter Masala,5,88.03,Kolkata,UPI,440.15,14,April,Monday
+Order ID,2025-04-07,12:50 PM,Spring Rolls,3,88.03,Mumbai,Card,264.09,12,May,Sunday
+Order ID,2025-05-18,7:14 PM,Masala Dosa,1,88.03,Delhi,Cash,88.03,19,April,Wednesday
+Order ID,2025-04-30,6:02 PM,Chicken Biryani,1,88.03,Bangalore,Card,88.03,18,June,Monday
+Order ID,2025-06-09,1:54 PM,Pasta,5,88.03,Delhi,Card,440.15,13,April,Sunday
+Order ID,2025-04-20,6:16 PM,Chicken Biryani,2,88.03,Delhi,Card,176.06,18,April,Monday
+Order ID,2025-04-14,7:09 PM,Paneer Butter Masala,2,88.03,Kolkata,Card,176.06,19,June,Sunday
+Order ID,2025-06-08,2:45 PM,Fried Rice,3,88.03,Bangalore,UPI,264.09,14,February,Thursday
+Order ID,2025-02-20,1:26 PM,Veg Burger,1,88.03,Kolkata,UPI,88.03,13,February,Monday
+Order ID,2025-02-17,6:53 PM,Chicken Biryani,4,88.03,Chennai,Wallet,352.12,18,June,Thursday
+Order ID,2025-06-05,6:33 PM,Masala Dosa,3,88.03,Bangalore,UPI,264.09,18,February,Saturday
+Order ID,2025-02-15,2:25 PM,Masala Dosa,4,88.03,Delhi,Card,352.12,14,June,Wednesday
+Order ID,2025-06-11,4:04 PM,Fried Rice,1,88.03,Hyderabad,Card,88.03,16,June,Saturday
+Order ID,2025-06-28,1:05 PM,Chicken Biryani,1,88.03,Kolkata,Wallet,88.03,13,April,Sunday
+Order ID,2025-04-20,5:23 PM,Fried Rice,5,88.03,Hyderabad,Cash,440.15,17,March,Friday
+Order ID,2025-03-07,1:23 PM,Veg Burger,5,88.03,Kolkata,Wallet,440.15,13,March,Wednesday
+Order ID,2025-03-12,6:20 PM,Spring Rolls,4,88.03,Mumbai,Card,352.12,18,July,Friday
+Order ID,2025-07-11,8:28 PM,Chicken Biryani,5,88.03,Delhi,UPI,440.15,20,March,Tuesday
+Order ID,2025-03-18,3:12 PM,Spring Rolls,1,88.03,Kolkata,Cash,88.03,15,March,Sunday
+Order ID,2025-03-09,6:34 PM,Pasta,1,88.03,Mumbai,Wallet,88.03,18,June,Monday
+Order ID,2025-06-23,10:31 AM,Fried Rice,3,88.03,Kolkata,Card,264.09,10,January,Wednesday
+Order ID,2025-01-29,12:09 PM,Fried Rice,5,88.03,Mumbai,Wallet,440.15,12,June,Saturday
+Order ID,2025-06-07,5:05 PM,Paneer Butter Masala,2,88.03,Kolkata,Wallet,176.06,17,March,Thursday
+Order ID,2025-03-27,7:58 PM,Pizza,5,88.03,Chennai,UPI,440.15,19,February,Saturday
+Order ID,2025-02-22,9:51 PM,Pasta,3,88.03,Mumbai,UPI,264.09,21,June,Monday
+Order ID,2025-06-23,9:25 PM,Masala Dosa,4,88.03,Hyderabad,UPI,352.12,21,April,Saturday
+Order ID,2025-04-12,1:00 PM,Pasta,2,88.03,Hyderabad,Card,176.06,13,June,Sunday
+Order ID,2025-06-29,11:05 AM,Veg Burger,5,88.03,Hyderabad,Wallet,440.15,11,June,Sunday
+Order ID,2025-06-29,11:36 AM,Masala Dosa,3,88.03,Chennai,Cash,264.09,11,April,Wednesday
+Order ID,2025-04-23,8:58 PM,Pasta,5,88.03,Delhi,UPI,440.15,20,February,Tuesday
+Order ID,2025-02-04,2:16 PM,Paneer Butter Masala,5,88.03,Mumbai,Cash,440.15,14,June,Tuesday
+Order ID,2025-06-17,9:59 PM,Masala Dosa,2,88.03,Delhi,Card,176.06,21,March,Friday
+Order ID,2025-03-14,5:16 PM,Pizza,3,88.03,Chennai,Cash,264.09,17,May,Sunday
+Order ID,2025-05-18,3:11 PM,Fried Rice,1,88.03,Mumbai,UPI,88.03,15,January,Monday
+Order ID,2025-01-27,5:29 PM,Paneer Butter Masala,1,88.03,Bangalore,UPI,88.03,17,March,Sunday
+Order ID,2025-03-16,7:26 PM,Spring Rolls,4,88.03,Kolkata,Card,352.12,19,July,Wednesday
+Order ID,2025-07-16,9:11 PM,Chicken Biryani,4,88.03,Kolkata,Card,352.12,21,June,Sunday
+Order ID,2025-06-22,7:20 PM,Fried Rice,1,88.03,Hyderabad,Wallet,88.03,19,June,Friday
+Order ID,2025-06-27,2:33 PM,Paneer Butter Masala,2,88.03,Chennai,Cash,176.06,14,March,Sunday
+Order ID,2025-03-23,9:30 PM,Spring Rolls,2,88.03,Kolkata,Wallet,176.06,21,July,Friday
+Order ID,2025-07-04,8:13 PM,Chicken Biryani,3,88.03,Delhi,Cash,264.09,20,July,Friday
+Order ID,2025-07-18,4:42 PM,Veg Burger,1,88.03,Chennai,UPI,88.03,16,July,Tuesday
+Order ID,2025-07-08,10:22 AM,Spring Rolls,1,88.03,Kolkata,Wallet,88.03,10,March,Monday
+Order ID,2025-03-10,7:44 PM,Chicken Biryani,4,88.03,Kolkata,UPI,352.12,19,July,Thursday
+Order ID,2025-07-10,6:01 PM,Masala Dosa,4,88.03,Kolkata,Cash,352.12,18,July,Monday
+Order ID,2025-07-14,5:05 PM,Pasta,4,88.03,Delhi,Wallet,352.12,17,May,Sunday
+Order ID,2025-05-25,1:06 PM,Paneer Butter Masala,2,88.03,Chennai,Card,176.06,13,February,Monday
+Order ID,2025-02-24,9:31 PM,Pizza,1,88.03,Chennai,Wallet,88.03,21,March,Monday
+Order ID,2025-03-10,12:41 PM,Spring Rolls,1,88.03,Bangalore,Wallet,88.03,12,July,Wednesday
+Order ID,2025-07-09,12:17 PM,Pasta,4,88.03,Bangalore,Wallet,352.12,12,January,Monday
+Order ID,2025-01-20,12:29 PM,Fried Rice,1,88.03,Hyderabad,Card,88.03,12,April,Wednesday
+Order ID,2025-04-09,8:06 PM,Pasta,2,88.03,Delhi,Card,176.06,20,April,Monday
+Order ID,2025-04-28,5:42 PM,Masala Dosa,3,88.03,Hyderabad,Wallet,264.09,17,February,Saturday
+Order ID,2025-02-08,5:02 PM,Veg Burger,4,88.03,Kolkata,Card,352.12,17,April,Friday
+Order ID,2025-04-11,1:03 PM,Masala Dosa,4,88.03,Kolkata,Card,352.12,13,March,Friday
+Order ID,2025-03-21,1:57 PM,Spring Rolls,3,88.03,Bangalore,Wallet,264.09,13,June,Wednesday
+Order ID,2025-06-11,1:00 PM,Veg Burger,3,88.03,Chennai,Card,264.09,13,May,Friday
+Order ID,2025-05-23,2:19 PM,Veg Burger,3,88.03,Kolkata,Card,264.09,14,July,Saturday
+Order ID,2025-07-05,10:09 AM,Spring Rolls,1,88.03,Delhi,UPI,88.03,10,April,Thursday
+Order ID,2025-04-10,9:10 PM,Fried Rice,4,88.03,Hyderabad,UPI,352.12,21,June,Monday
+Order ID,2025-06-30,5:55 PM,Paneer Butter Masala,2,88.03,Kolkata,Card,176.06,17,April,Thursday
+Order ID,2025-04-17,9:24 PM,Fried Rice,2,88.03,Chennai,Card,176.06,21,June,Monday
+Order ID,2025-06-30,12:48 PM,Pizza,5,88.03,Hyderabad,Wallet,440.15,12,May,Sunday
+Order ID,2025-05-18,10:00 PM,Pizza,3,88.03,Bangalore,UPI,264.09,22,March,Monday
+Order ID,2025-03-24,6:40 PM,Pasta,1,88.03,Bangalore,Wallet,88.03,18,March,Monday
+Order ID,2025-03-17,1:00 PM,Chicken Biryani,3,88.03,Bangalore,Cash,264.09,13,May,Monday
+Order ID,2025-05-05,1:52 PM,Masala Dosa,3,88.03,Bangalore,UPI,264.09,13,May,Friday
+Order ID,2025-05-30,5:17 PM,Chicken Biryani,4,88.03,Delhi,Card,352.12,17,July,Friday
+Order ID,2025-07-11,9:04 PM,Pizza,5,88.03,Bangalore,Cash,440.15,21,March,Friday
+Order ID,2025-03-21,5:15 PM,Chicken Biryani,4,88.03,Hyderabad,Wallet,352.12,17,April,Wednesday
+Order ID,2025-04-09,11:14 AM,Veg Burger,2,88.03,Hyderabad,Card,176.06,11,June,Monday
+Order ID,2025-06-09,10:16 AM,Fried Rice,4,88.03,Delhi,Cash,352.12,10,April,Wednesday
+Order ID,2025-04-23,2:54 PM,Pizza,3,88.03,Kolkata,UPI,264.09,14,February,Saturday
+Order ID,2025-02-22,7:53 PM,Veg Burger,1,88.03,Chennai,Cash,88.03,19,July,Thursday
+Order ID,2025-07-10,9:51 PM,Chicken Biryani,3,88.03,Chennai,UPI,264.09,21,January,Tuesday
+Order ID,2025-01-21,3:23 PM,Pasta,3,88.03,Bangalore,Card,264.09,15,May,Monday
+Order ID,2025-05-12,5:22 PM,Chicken Biryani,3,88.03,Hyderabad,Wallet,264.09,17,April,Wednesday
+Order ID,2025-04-30,9:41 PM,Pasta,5,88.03,Bangalore,Wallet,440.15,21,February,Tuesday
+Order ID,2025-02-11,8:44 PM,Pizza,1,88.03,Delhi,UPI,88.03,20,June,Wednesday
+Order ID,2025-06-25,9:46 PM,Pizza,2,88.03,Mumbai,UPI,176.06,21,June,Saturday
+Order ID,2025-06-21,7:07 PM,Pizza,4,88.03,Mumbai,Card,352.12,19,May,Sunday
+Order ID,2025-05-18,12:12 PM,Chicken Biryani,3,88.03,Mumbai,Card,264.09,12,June,Wednesday
+Order ID,2025-06-11,12:04 PM,Pizza,4,88.03,Mumbai,UPI,352.12,12,March,Tuesday
+Order ID,2025-03-25,8:32 PM,Fried Rice,4,88.03,Delhi,Card,352.12,20,March,Wednesday
+Order ID,2025-03-05,11:57 AM,Masala Dosa,4,88.03,Mumbai,Cash,352.12,11,March,Saturday
+Order ID,2025-03-01,2:38 PM,Spring Rolls,1,88.03,Mumbai,UPI,88.03,14,February,Saturday
+Order ID,2025-02-01,3:36 PM,Paneer Butter Masala,3,88.03,Bangalore,Wallet,264.09,15,May,Monday
+Order ID,2025-05-19,3:00 PM,Fried Rice,1,88.03,Bangalore,Cash,88.03,15,June,Tuesday
+Order ID,2025-06-24,3:17 PM,Fried Rice,5,88.03,Kolkata,Card,440.15,15,May,Saturday
+Order ID,2025-05-17,4:57 PM,Chicken Biryani,4,88.03,Kolkata,Cash,352.12,16,January,Sunday
+Order ID,2025-01-19,4:53 PM,Masala Dosa,3,88.03,Chennai,UPI,264.09,16,February,Tuesday
+Order ID,2025-02-25,12:15 PM,Masala Dosa,5,88.03,Delhi,Cash,440.15,12,July,Saturday
+Order ID,2025-07-12,11:11 AM,Chicken Biryani,2,88.03,Kolkata,Cash,176.06,11,January,Thursday
+Order ID,2025-01-30,6:39 PM,Paneer Butter Masala,2,88.03,Delhi,Cash,176.06,18,April,Thursday
+Order ID,2025-04-10,2:24 PM,Veg Burger,1,88.03,Mumbai,Card,88.03,14,June,Thursday
+Order ID,2025-06-19,12:01 PM,Spring Rolls,5,88.03,Mumbai,Wallet,440.15,12,June,Monday
+Order ID,2025-06-16,2:23 PM,Masala Dosa,1,88.03,Kolkata,Wallet,88.03,14,May,Tuesday
+Order ID,2025-05-20,12:14 PM,Spring Rolls,1,88.03,Hyderabad,UPI,88.03,12,May,Friday
+Order ID,2025-05-16,11:08 AM,Veg Burger,2,88.03,Bangalore,Cash,176.06,11,March,Monday
+Order ID,2025-03-03,7:45 PM,Spring Rolls,4,88.03,Mumbai,Cash,352.12,19,January,Friday
+Order ID,2025-01-24,6:25 PM,Paneer Butter Masala,1,88.03,Hyderabad,Wallet,88.03,18,February,Thursday
+Order ID,2025-02-06,12:31 PM,Spring Rolls,1,88.03,Hyderabad,Wallet,88.03,12,July,Sunday
+Order ID,2025-07-13,1:15 PM,Veg Burger,4,88.03,Kolkata,UPI,352.12,13,March,Tuesday
+Order ID,2025-03-11,3:29 PM,Pasta,1,88.03,Kolkata,UPI,88.03,15,April,Wednesday
+Order ID,2025-04-30,11:14 AM,Pizza,4,88.03,Mumbai,Wallet,352.12,11,April,Thursday
+Order ID,2025-04-24,1:44 PM,Fried Rice,3,88.03,Kolkata,Wallet,264.09,13,June,Wednesday
+Order ID,2025-06-25,9:50 PM,Paneer Butter Masala,4,88.03,Hyderabad,Cash,352.12,21,May,Sunday
+Order ID,2025-05-11,2:27 PM,Spring Rolls,4,88.03,Delhi,Wallet,352.12,14,May,Monday
+Order ID,2025-05-05,6:21 PM,Chicken Biryani,3,88.03,Kolkata,Wallet,264.09,18,March,Tuesday
+Order ID,2025-03-11,9:40 PM,Masala Dosa,4,88.03,Delhi,Cash,352.12,21,April,Sunday
+Order ID,2025-04-06,12:25 PM,Spring Rolls,4,88.03,Delhi,UPI,352.12,12,May,Wednesday
+Order ID,2025-05-28,5:51 PM,Paneer Butter Masala,5,88.03,Chennai,Cash,440.15,17,March,Saturday
+Order ID,2025-03-08,3:21 PM,Spring Rolls,4,88.03,Hyderabad,UPI,352.12,15,January,Wednesday
+Order ID,2025-01-29,3:39 PM,Fried Rice,1,88.03,Bangalore,Card,88.03,15,April,Monday
+Order ID,2025-04-14,11:30 AM,Masala Dosa,3,88.03,Chennai,Wallet,264.09,11,May,Wednesday
+Order ID,2025-05-14,7:34 PM,Fried Rice,2,88.03,Kolkata,UPI,176.06,19,May,Wednesday
+Order ID,2025-05-28,11:15 AM,Spring Rolls,4,88.03,Chennai,Cash,352.12,11,July,Wednesday
+Order ID,2025-07-09,3:22 PM,Paneer Butter Masala,2,88.03,Bangalore,Card,176.06,15,March,Monday
+Order ID,2025-03-17,7:32 PM,Fried Rice,3,88.03,Chennai,Wallet,264.09,19,February,Monday
+Order ID,2025-02-03,8:49 PM,Chicken Biryani,5,88.03,Hyderabad,Cash,440.15,20,June,Friday
+Order ID,2025-06-13,2:19 PM,Masala Dosa,5,88.03,Kolkata,Wallet,440.15,14,January,Sunday
+Order ID,2025-01-26,3:48 PM,Chicken Biryani,3,88.03,Delhi,UPI,264.09,15,January,Thursday
+Order ID,2025-01-23,1:08 PM,Pasta,5,88.03,Delhi,Cash,440.15,13,May,Friday
+Order ID,2025-05-30,3:29 PM,Veg Burger,1,88.03,Mumbai,UPI,88.03,15,April,Monday
+Order ID,2025-04-14,10:32 AM,Masala Dosa,3,88.03,Hyderabad,Card,264.09,10,July,Tuesday
+Order ID,2025-07-08,1:12 PM,Fried Rice,1,88.03,Bangalore,Wallet,88.03,13,April,Sunday
+Order ID,2025-04-20,5:10 PM,Fried Rice,4,88.03,Mumbai,Card,352.12,17,January,Friday
+Order ID,2025-01-24,7:37 PM,Paneer Butter Masala,1,88.03,Kolkata,UPI,88.03,19,January,Monday
+Order ID,2025-01-20,7:19 PM,Fried Rice,2,88.03,Mumbai,Cash,176.06,19,April,Monday
+Order ID,2025-04-21,5:41 PM,Veg Burger,5,88.03,Delhi,Cash,440.15,17,May,Saturday
+Order ID,2025-05-03,6:11 PM,Pasta,5,88.03,Hyderabad,UPI,440.15,18,March,Monday
+Order ID,2025-03-24,11:37 AM,Masala Dosa,2,88.03,Mumbai,Wallet,176.06,11,February,Tuesday
+Order ID,2025-02-11,11:55 AM,Veg Burger,2,88.03,Delhi,UPI,176.06,11,March,Sunday
+Order ID,2025-03-09,9:44 PM,Masala Dosa,4,88.03,Chennai,Card,352.12,21,February,Saturday
+Order ID,2025-02-22,4:28 PM,Masala Dosa,5,88.03,Hyderabad,Cash,440.15,16,June,Friday
+Order ID,2025-06-20,4:36 PM,Spring Rolls,5,88.03,Bangalore,Cash,440.15,16,May,Tuesday
+Order ID,2025-05-06,12:28 PM,Spring Rolls,1,88.03,Delhi,Card,88.03,12,June,Saturday
+Order ID,2025-06-14,2:19 PM,Spring Rolls,2,88.03,Mumbai,Cash,176.06,14,March,Sunday
+Order ID,2025-03-02,11:15 AM,Fried Rice,4,88.03,Chennai,UPI,352.12,11,April,Sunday
+Order ID,2025-04-27,9:55 PM,Pizza,3,88.03,Delhi,Cash,264.09,21,June,Friday
+Order ID,2025-06-06,3:14 PM,Masala Dosa,3,88.03,Bangalore,UPI,264.09,15,January,Friday
+Order ID,2025-01-24,4:45 PM,Fried Rice,1,88.03,Mumbai,Cash,88.03,16,May,Tuesday
+Order ID,2025-05-27,4:04 PM,Spring Rolls,1,88.03,Kolkata,UPI,88.03,16,June,Tuesday
+Order ID,2025-06-17,9:07 PM,Veg Burger,5,88.03,Chennai,Card,440.15,21,June,Saturday
+Order ID,2025-06-28,1:30 PM,Pizza,3,88.03,Kolkata,Wallet,264.09,13,January,Monday
+Order ID,2025-01-20,2:50 PM,Masala Dosa,5,88.03,Chennai,Card,440.15,14,February,Thursday
+Order ID,2025-02-27,3:21 PM,Veg Burger,4,88.03,Hyderabad,Wallet,352.12,15,June,Thursday
+Order ID,2025-06-19,3:22 PM,Masala Dosa,4,88.03,Chennai,Cash,352.12,15,March,Saturday
+Order ID,2025-03-08,3:09 PM,Fried Rice,3,88.03,Chennai,UPI,264.09,15,May,Friday
+Order ID,2025-05-30,9:55 PM,Pizza,5,88.03,Kolkata,Wallet,440.15,21,June,Friday
+Order ID,2025-06-13,9:11 PM,Pizza,3,88.03,Mumbai,UPI,264.09,21,June,Tuesday
+Order ID,2025-06-17,2:59 PM,Spring Rolls,2,88.03,Mumbai,UPI,176.06,14,January,Sunday
+Order ID,2025-01-19,8:59 PM,Pizza,2,88.03,Kolkata,Cash,176.06,20,February,Sunday
+Order ID,2025-02-16,12:25 PM,Paneer Butter Masala,2,88.03,Delhi,Card,176.06,12,March,Monday
+Order ID,2025-03-24,9:44 PM,Veg Burger,1,88.03,Mumbai,Cash,88.03,21,June,Monday
+Order ID,2025-06-23,1:47 PM,Veg Burger,5,88.03,Hyderabad,Cash,440.15,13,June,Saturday
+Order ID,2025-06-07,12:03 PM,Paneer Butter Masala,4,88.03,Mumbai,Card,352.12,12,June,Tuesday
+Order ID,2025-06-03,7:17 PM,Masala Dosa,3,88.03,Delhi,Card,264.09,19,February,Monday
+Order ID,2025-02-10,4:42 PM,Pasta,4,88.03,Bangalore,UPI,352.12,16,June,Friday
+Order ID,2025-06-27,12:13 PM,Paneer Butter Masala,2,88.03,Kolkata,UPI,176.06,12,June,Saturday
+Order ID,2025-06-28,6:46 PM,Paneer Butter Masala,4,88.03,Mumbai,Card,352.12,18,January,Thursday
+Order ID,2025-01-30,11:53 AM,Spring Rolls,4,88.03,Bangalore,Wallet,352.12,11,May,Saturday
+Order ID,2025-05-24,8:52 PM,Veg Burger,5,88.03,Bangalore,Card,440.15,20,April,Wednesday
+Order ID,2025-04-30,1:07 PM,Fried Rice,4,88.03,Mumbai,UPI,352.12,13,July,Wednesday
+Order ID,2025-07-16,2:14 PM,Pizza,2,88.03,Hyderabad,Card,176.06,14,March,Sunday
+Order ID,2025-03-30,8:21 PM,Masala Dosa,4,88.03,Chennai,Cash,352.12,20,February,Wednesday
+Order ID,2025-02-12,2:55 PM,Paneer Butter Masala,5,88.03,Kolkata,Wallet,440.15,14,May,Friday
+Order ID,2025-05-23,12:45 PM,Veg Burger,4,88.03,Hyderabad,Card,352.12,12,June,Friday
+Order ID,2025-06-20,11:27 AM,Pizza,5,88.03,Chennai,Wallet,440.15,11,April,Sunday
+Order ID,2025-04-13,12:18 PM,Pizza,1,88.03,Delhi,Card,88.03,12,May,Wednesday
+Order ID,2025-05-28,6:04 PM,Fried Rice,2,88.03,Mumbai,Wallet,176.06,18,July,Sunday
+Order ID,2025-07-13,3:44 PM,Spring Rolls,5,88.03,Delhi,Wallet,440.15,15,February,Sunday
+Order ID,2025-02-23,10:19 AM,Chicken Biryani,3,88.03,Mumbai,Cash,264.09,10,January,Friday
+Order ID,2025-01-24,7:24 PM,Fried Rice,1,88.03,Chennai,Cash,88.03,19,March,Saturday
+Order ID,2025-03-08,12:12 PM,Paneer Butter Masala,2,88.03,Kolkata,Wallet,176.06,12,February,Monday
+Order ID,2025-02-03,7:41 PM,Spring Rolls,1,88.03,Hyderabad,Cash,88.03,19,March,Saturday
+Order ID,2025-03-01,7:07 PM,Pasta,1,88.03,Kolkata,UPI,88.03,19,June,Friday
+Order ID,2025-06-06,12:51 PM,Pizza,5,88.03,Hyderabad,Cash,440.15,12,May,Saturday
+Order ID,2025-05-31,9:33 PM,Masala Dosa,4,88.03,Hyderabad,UPI,352.12,21,February,Wednesday
+Order ID,2025-02-19,6:00 PM,Fried Rice,3,88.03,Delhi,Cash,264.09,18,March,Wednesday
+Order ID,2025-03-19,4:36 PM,Paneer Butter Masala,2,88.03,Chennai,Wallet,176.06,16,March,Saturday
+Order ID,2025-03-15,1:05 PM,Fried Rice,2,88.03,Kolkata,Card,176.06,13,February,Friday
+Order ID,2025-02-21,6:29 PM,Pizza,2,88.03,Mumbai,Card,176.06,18,July,Thursday
+Order ID,2025-07-03,3:27 PM,Pasta,3,88.03,Bangalore,Cash,264.09,15,June,Saturday
+Order ID,2025-06-07,2:02 PM,Pizza,1,88.03,Delhi,Cash,88.03,14,March,Thursday
+Order ID,2025-03-13,12:26 PM,Pizza,1,88.03,Kolkata,UPI,88.03,12,July,Wednesday
+Order ID,2025-07-09,4:03 PM,Pizza,5,88.03,Mumbai,UPI,440.15,16,March,Tuesday
+Order ID,2025-03-18,12:57 PM,Pasta,2,88.03,Mumbai,Card,176.06,12,February,Wednesday
+Order ID,2025-02-26,3:18 PM,Chicken Biryani,5,88.03,Hyderabad,Wallet,440.15,15,April,Monday
+Order ID,2025-04-14,11:21 AM,Pasta,5,88.03,Chennai,UPI,440.15,11,April,Saturday
+Order ID,2025-04-12,7:48 PM,Pizza,4,88.03,Mumbai,Card,352.12,19,February,Tuesday
+Order ID,2025-02-25,10:36 AM,Veg Burger,1,88.03,Bangalore,Wallet,88.03,10,April,Monday
+Order ID,2025-04-21,3:07 PM,Fried Rice,4,88.03,Mumbai,UPI,352.12,15,July,Saturday
+Order ID,2025-07-05,11:25 AM,Masala Dosa,5,88.03,Mumbai,UPI,440.15,11,March,Sunday
+Order ID,2025-03-16,1:36 PM,Fried Rice,1,88.03,Hyderabad,UPI,88.03,13,June,Monday
+Order ID,2025-06-02,12:38 PM,Pasta,1,88.03,Kolkata,Card,88.03,12,July,Sunday
+Order ID,2025-07-06,12:20 PM,Spring Rolls,5,88.03,Bangalore,Cash,440.15,12,May,Monday
+Order ID,2025-05-19,6:21 PM,Fried Rice,1,88.03,Hyderabad,Wallet,88.03,18,May,Wednesday
+Order ID,2025-05-14,2:34 PM,Pizza,2,88.03,Delhi,Cash,176.06,14,March,Thursday
+Order ID,2025-03-06,11:44 AM,Pasta,1,88.03,Chennai,Wallet,88.03,11,May,Monday
+Order ID,2025-05-26,6:34 PM,Pasta,2,88.03,Kolkata,UPI,176.06,18,July,Thursday
+Order ID,2025-07-17,10:25 AM,Pasta,5,88.03,Hyderabad,Wallet,440.15,10,February,Sunday
+Order ID,2025-02-16,12:14 PM,Masala Dosa,4,88.03,Bangalore,Card,352.12,12,April,Tuesday
+Order ID,2025-04-22,10:35 AM,Chicken Biryani,1,88.03,Hyderabad,Card,88.03,10,May,Saturday
+Order ID,2025-05-31,5:43 PM,Spring Rolls,3,88.03,Mumbai,Card,264.09,17,May,Wednesday
+Order ID,2025-05-21,9:38 PM,Pasta,1,88.03,Delhi,UPI,88.03,21,February,Tuesday
+Order ID,2025-02-25,11:24 AM,Veg Burger,4,88.03,Delhi,Card,352.12,11,February,Saturday
+Order ID,2025-02-15,3:58 PM,Chicken Biryani,1,88.03,Hyderabad,Wallet,88.03,15,February,Monday
+Order ID,2025-02-03,11:44 AM,Veg Burger,2,88.03,Chennai,Wallet,176.06,11,February,Tuesday
+Order ID,2025-02-18,5:27 PM,Pasta,5,88.03,Kolkata,Card,440.15,17,April,Wednesday
+Order ID,2025-04-16,10:00 PM,Veg Burger,5,88.03,Mumbai,Wallet,440.15,22,March,Sunday
+Order ID,2025-03-02,2:00 PM,Paneer Butter Masala,5,88.03,Kolkata,Wallet,440.15,14,April,Tuesday
+Order ID,2025-04-08,4:12 PM,Masala Dosa,1,88.03,Hyderabad,UPI,88.03,16,February,Monday
+Order ID,2025-02-10,9:29 PM,Chicken Biryani,4,88.03,Bangalore,Card,352.12,21,May,Wednesday
+Order ID,2025-05-07,11:54 AM,Fried Rice,5,88.03,Mumbai,Wallet,440.15,11,June,Tuesday
+Order ID,2025-06-10,7:23 PM,Fried Rice,2,88.03,Hyderabad,UPI,176.06,19,March,Sunday
+Order ID,2025-03-30,9:42 PM,Spring Rolls,3,88.03,Kolkata,Wallet,264.09,21,June,Thursday
+Order ID,2025-06-26,3:37 PM,Chicken Biryani,5,88.03,Mumbai,Card,440.15,15,January,Tuesday
+Order ID,2025-01-28,3:14 PM,Paneer Butter Masala,5,88.03,Chennai,Card,440.15,15,February,Wednesday
+Order ID,2025-02-12,8:14 PM,Fried Rice,3,88.03,Mumbai,UPI,264.09,20,June,Wednesday
+Order ID,2025-06-25,11:39 AM,Masala Dosa,3,88.03,Delhi,Wallet,264.09,11,March,Wednesday
+Order ID,2025-03-26,1:06 PM,Masala Dosa,1,88.03,Delhi,UPI,88.03,13,January,Monday
+Order ID,2025-01-27,6:30 PM,Fried Rice,3,88.03,Chennai,Cash,264.09,18,March,Monday
+Order ID,2025-03-03,8:04 PM,Paneer Butter Masala,3,88.03,Kolkata,Card,264.09,20,March,Saturday
+Order ID,2025-03-08,9:49 PM,Chicken Biryani,1,88.03,Delhi,Wallet,88.03,21,May,Sunday
+Order ID,2025-05-25,9:13 PM,Masala Dosa,2,88.03,Bangalore,Card,176.06,21,July,Tuesday
+Order ID,2025-07-08,2:51 PM,Paneer Butter Masala,3,88.03,Kolkata,Cash,264.09,14,February,Sunday
+Order ID,2025-02-09,3:54 PM,Pasta,5,88.03,Kolkata,Wallet,440.15,15,May,Sunday
+Order ID,2025-05-04,2:17 PM,Pasta,2,88.03,Chennai,Card,176.06,14,March,Sunday
+Order ID,2025-03-16,11:34 AM,Pasta,4,88.03,Bangalore,Cash,352.12,11,March,Saturday
+Order ID,2025-03-08,11:37 AM,Chicken Biryani,4,88.03,Chennai,Cash,352.12,11,March,Thursday
+Order ID,2025-03-13,3:09 PM,Masala Dosa,2,88.03,Mumbai,UPI,176.06,15,July,Wednesday
+Order ID,2025-07-16,9:54 PM,Paneer Butter Masala,4,88.03,Kolkata,UPI,352.12,21,March,Monday
+Order ID,2025-03-17,4:02 PM,Chicken Biryani,1,88.03,Mumbai,Cash,88.03,16,June,Thursday
+Order ID,2025-06-19,1:16 PM,Masala Dosa,4,88.03,Chennai,Cash,352.12,13,July,Sunday
+Order ID,2025-07-06,9:36 PM,Veg Burger,1,88.03,Kolkata,UPI,88.03,21,July,Friday
+Order ID,2025-07-18,4:10 PM,Pasta,4,88.03,Chennai,Wallet,352.12,16,February,Tuesday
+Order ID,2025-02-25,3:20 PM,Masala Dosa,1,88.03,Kolkata,Cash,88.03,15,May,Saturday
+Order ID,2025-05-03,9:24 PM,Pizza,1,88.03,Bangalore,Cash,88.03,21,June,Saturday
+Order ID,2025-06-28,12:17 PM,Chicken Biryani,2,88.03,Kolkata,Cash,176.06,12,June,Tuesday
+Order ID,2025-06-24,2:09 PM,Chicken Biryani,4,88.03,Hyderabad,Cash,352.12,14,March,Saturday
+Order ID,2025-03-01,7:47 PM,Pizza,3,88.03,Bangalore,Wallet,264.09,19,April,Saturday
+Order ID,2025-04-05,2:36 PM,Chicken Biryani,5,88.03,Mumbai,Cash,440.15,14,April,Saturday
+Order ID,2025-04-26,11:33 AM,Pasta,5,88.03,Hyderabad,Wallet,440.15,11,May,Friday
+Order ID,2025-05-30,10:59 AM,Chicken Biryani,3,88.03,Delhi,Cash,264.09,10,April,Thursday
+Order ID,2025-04-03,9:25 PM,Pizza,2,88.03,Chennai,Wallet,176.06,21,March,Saturday
+Order ID,2025-03-01,1:52 PM,Fried Rice,5,88.03,Bangalore,Wallet,440.15,13,May,Thursday
+Order ID,2025-05-22,1:49 PM,Fried Rice,1,88.03,Chennai,UPI,88.03,13,June,Wednesday
+Order ID,2025-06-04,7:00 PM,Masala Dosa,4,88.03,Bangalore,UPI,352.12,19,April,Wednesday
+Order ID,2025-04-16,11:32 AM,Fried Rice,4,88.03,Delhi,Cash,352.12,11,April,Friday
+Order ID,2025-04-25,10:09 AM,Fried Rice,2,88.03,Hyderabad,Wallet,176.06,10,May,Sunday
+Order ID,2025-05-18,2:35 PM,Paneer Butter Masala,2,88.03,Bangalore,Cash,176.06,14,February,Sunday
+Order ID,2025-02-16,9:33 PM,Spring Rolls,2,88.03,Chennai,Wallet,176.06,21,March,Saturday
+Order ID,2025-03-29,8:34 PM,Masala Dosa,3,88.03,Delhi,Card,264.09,20,January,Sunday
+Order ID,2025-01-19,1:34 PM,Spring Rolls,5,88.03,Bangalore,Card,440.15,13,April,Wednesday
+Order ID,2025-04-02,9:26 PM,Chicken Biryani,3,88.03,Hyderabad,Wallet,264.09,21,June,Wednesday
+Order ID,2025-06-04,10:25 AM,Pizza,4,88.03,Chennai,UPI,352.12,10,June,Monday
+Order ID,2025-06-09,10:28 AM,Pasta,3,88.03,Kolkata,Card,264.09,10,January,Monday
+Order ID,2025-01-27,3:19 PM,Chicken Biryani,2,88.03,Chennai,UPI,176.06,15,April,Sunday
+Order ID,2025-04-27,6:09 PM,Fried Rice,5,88.03,Bangalore,Card,440.15,18,June,Monday
+Order ID,2025-06-23,6:30 PM,Pasta,2,88.03,Kolkata,Wallet,176.06,18,February,Tuesday
+Order ID,2025-02-18,4:10 PM,Fried Rice,4,88.03,Chennai,Cash,352.12,16,July,Friday
+Order ID,2025-07-18,11:01 AM,Pasta,2,88.03,Chennai,UPI,176.06,11,January,Friday
+Order ID,2025-01-24,6:49 PM,Paneer Butter Masala,5,88.03,Chennai,UPI,440.15,18,March,Monday
+Order ID,2025-03-10,11:12 AM,Fried Rice,3,88.03,Hyderabad,Cash,264.09,11,July,Wednesday
+Order ID,2025-07-09,2:53 PM,Paneer Butter Masala,5,88.03,Hyderabad,UPI,440.15,14,April,Wednesday
+Order ID,2025-04-09,3:01 PM,Paneer Butter Masala,4,88.03,Hyderabad,Card,352.12,15,June,Thursday
+Order ID,2025-06-05,2:30 PM,Chicken Biryani,2,88.03,Chennai,Card,176.06,14,May,Friday
+Order ID,2025-05-30,1:23 PM,Chicken Biryani,2,88.03,Delhi,Card,176.06,13,April,Tuesday
+Order ID,2025-04-01,2:50 PM,Paneer Butter Masala,5,88.03,Mumbai,UPI,440.15,14,March,Monday
+Order ID,2025-03-24,8:26 PM,Masala Dosa,5,88.03,Mumbai,UPI,440.15,20,April,Sunday
+Order ID,2025-04-27,2:17 PM,Pasta,1,88.03,Hyderabad,Wallet,88.03,14,February,Friday
+Order ID,2025-02-28,3:38 PM,Spring Rolls,3,88.03,Chennai,Cash,264.09,15,June,Saturday
+Order ID,2025-06-14,6:00 PM,Pizza,2,88.03,Kolkata,UPI,176.06,18,June,Wednesday
+Order ID,2025-06-18,5:02 PM,Spring Rolls,3,88.03,Delhi,UPI,264.09,17,July,Saturday
+Order ID,2025-07-12,10:33 AM,Veg Burger,5,88.03,Hyderabad,Card,440.15,10,February,Saturday
+Order ID,2025-02-15,12:17 PM,Veg Burger,1,88.03,Kolkata,Cash,88.03,12,January,Friday
+Order ID,2025-01-24,3:15 PM,Veg Burger,3,88.03,Kolkata,Cash,264.09,15,June,Monday
+Order ID,2025-06-16,2:20 PM,Spring Rolls,3,88.03,Kolkata,Wallet,264.09,14,July,Wednesday
+Order ID,2025-07-09,12:19 PM,Veg Burger,2,88.03,Chennai,UPI,176.06,12,March,Tuesday
+Order ID,2025-03-11,12:00 PM,Pasta,5,88.03,Delhi,UPI,440.15,12,June,Monday
+Order ID,2025-06-16,6:30 PM,Fried Rice,4,88.03,Chennai,UPI,352.12,18,July,Wednesday
+Order ID,2025-07-16,5:06 PM,Masala Dosa,3,88.03,Chennai,Cash,264.09,17,March,Sunday
+Order ID,2025-03-09,3:26 PM,Veg Burger,3,88.03,Kolkata,Wallet,264.09,15,June,Monday
+Order ID,2025-06-02,5:39 PM,Fried Rice,4,88.03,Mumbai,Cash,352.12,17,March,Sunday
+Order ID,2025-03-23,4:19 PM,Fried Rice,1,88.03,Hyderabad,Cash,88.03,16,June,Sunday
+Order ID,2025-06-01,6:54 PM,Spring Rolls,5,88.03,Mumbai,Card,440.15,18,March,Friday
+Order ID,2025-03-21,3:48 PM,Veg Burger,3,88.03,Hyderabad,Card,264.09,15,April,Thursday
+Order ID,2025-04-24,10:57 AM,Masala Dosa,1,88.03,Kolkata,Wallet,88.03,10,June,Monday
+Order ID,2025-06-30,2:39 PM,Fried Rice,2,88.03,Kolkata,UPI,176.06,14,April,Saturday
+Order ID,2025-04-26,9:57 PM,Pizza,1,88.03,Kolkata,Cash,88.03,21,May,Thursday
+Order ID,2025-05-22,8:54 PM,Pizza,3,88.03,Kolkata,UPI,264.09,20,February,Friday
+Order ID,2025-02-21,12:32 PM,Pasta,1,88.03,Delhi,UPI,88.03,12,April,Wednesday
+Order ID,2025-04-16,9:54 PM,Paneer Butter Masala,3,88.03,Hyderabad,Card,264.09,21,February,Sunday
+Order ID,2025-02-23,11:52 AM,Masala Dosa,3,88.03,Kolkata,UPI,264.09,11,April,Monday
+Order ID,2025-04-07,9:22 PM,Paneer Butter Masala,1,88.03,Kolkata,Cash,88.03,21,July,Thursday
+Order ID,2025-07-10,3:46 PM,Chicken Biryani,1,88.03,Hyderabad,Card,88.03,15,May,Tuesday
+Order ID,2025-05-13,8:40 PM,Veg Burger,4,88.03,Bangalore,UPI,352.12,20,May,Saturday
+Order ID,2025-05-17,10:31 AM,Masala Dosa,5,88.03,Chennai,UPI,440.15,10,June,Wednesday
+Order ID,2025-06-18,6:59 PM,Masala Dosa,3,88.03,Kolkata,UPI,264.09,18,June,Thursday
+Order ID,2025-06-05,8:13 PM,Chicken Biryani,3,88.03,Mumbai,UPI,264.09,20,December,Saturday

@@ -8,7 +8,8 @@
 <p>This interactive dashboard analyzes food delivery sales across different cities and time periods using beautiful, responsive charts. It provides insights into popular locations, food items, and customer behavior.</p>
 
 <h3>✅ Features</h3>
-<p>- Total Sales by Location
+<p>
+- Total Sales by Location
 
 - Orders by Hour
 
@@ -22,7 +23,8 @@
 <p>- HTML, CSS, JavaScript (Chart.js)</p>
 
 <h3>🚀 How to Run</h3>
-<p>1. Download or clone this repo
+<p>
+1. Download or clone this repo
 
 2. Open <code>website</code> in your browser
 

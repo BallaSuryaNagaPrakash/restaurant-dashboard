@@ -9,6 +9,7 @@
 
 <h3>✅ Features</h3>
 <p>
+
 - Total Sales by Location
 
 - Orders by Hour
@@ -24,6 +25,7 @@
 
 <h3>🚀 How to Run</h3>
 <p>
+
 1. Download or clone this repo
 
 2. Open <code>website</code> in your browser
